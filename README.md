@@ -5,7 +5,7 @@ If your cursor is invisible or wrong inside a Flatpak (like **Veloren**), copy t
 
 ---
 
-## TL;DR (Your case: `Fluent-dark-cursors`)
+## TL;DR (Mi case: `Fluent-dark-cursors`)
 
 ```bash
 # 1) Ensure a per-user icons dir exists
