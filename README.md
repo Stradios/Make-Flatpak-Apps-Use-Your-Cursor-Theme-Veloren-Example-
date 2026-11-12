@@ -1,4 +1,5 @@
 # Make Flatpak Apps Use Your Cursor Theme (Veloren Example)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 Flatpak apps run in a sandbox and often **can’t see** cursor themes installed on your host system (e.g. `/usr/share/icons` or `~/.icons`). 
 If your cursor is invisible or wrong inside a Flatpak (like **Veloren**), copy the theme into a location Flatpak can see and tell the app to use it.
